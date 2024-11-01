@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GMacroGamePadJamsumon", "GMacroGamePadJamsumon\GMacroGamePadJamsumon.csproj", "{4E25D79B-0E17-43F4-835E-9EDE949B5163}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E25D79B-0E17-43F4-835E-9EDE949B5163}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E25D79B-0E17-43F4-835E-9EDE949B5163}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E25D79B-0E17-43F4-835E-9EDE949B5163}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E25D79B-0E17-43F4-835E-9EDE949B5163}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38EEB7BB-7227-45C2-AA48-F1EEA041C895}
+	EndGlobalSection
+EndGlobal

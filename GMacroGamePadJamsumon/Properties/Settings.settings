@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="GMacroGamePadJamsumon.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="startHot" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">116</Value>
+    </Setting>
+    <Setting Name="endHot" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">117</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
